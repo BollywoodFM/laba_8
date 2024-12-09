@@ -16,6 +16,9 @@
 Добавьте возможность сжатия найденного файла стандартными средствами .Net.
 
 
+
+
+
 Код ClassLibrary:
 ```
 using System.Xml.Serialization;
